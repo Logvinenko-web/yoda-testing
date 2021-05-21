@@ -1,0 +1,6 @@
+sqlalchemy~=1.4.13
+pydantic~=1.8.1
+uvicorn~=0.13.4
+fastapi~=0.63.0
+starlette~=0.13.6
+alembic~=1.6.0
