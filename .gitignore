@@ -34,5 +34,6 @@ Makefile
 
 doc-dev
 .env.example
+.env
 
 
